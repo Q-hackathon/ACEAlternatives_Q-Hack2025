@@ -20,26 +20,18 @@ Venture capital scouting, due diligence and Know Your Transaction ‘KYT’ is s
 - Sanction scanners to check if a Politically Exposed Person (PEP) is involved or if the individual has any registered legal cases, outstanding fines etc.
 - Valuations of peers to benchmark and check market interest.
 
-### 📊 DATA & RESOURCES
+### 🛠️ **The Application That is Built**
 
-#### Will datasets or APIs be provided?
+An AI-powered startup intelligence platform that autonomously crawls online sources (e.g., Crunchbase, GitHub, news, public records), extracts structured data, and assesses startups using a scoring system based on LLMs and machine learning models.
 
-Yes. Teams will receive public datasets, sample URLs for crawling, and access to APIs such as Crunchbase or AngelList where applicable. Additional mock or real-time data feeds may also be shared.
-
-#### Is there any specific tech stack or tools that should/can be used?
+### 💻 Technology Stack
 
 Participants are free to use any stack, but the following will be available or recommended:
 - **Languages & Frameworks**: Python, Node.js, Docker are recommended, but not mandatory.
 - **Cloud & APIs**: OpenAI API, AWS credits (if available).
 - **Starter Kits**: Optional boilerplates for crawlers, scoring models, or UI dashboards may be used.
 
-#### Are there any constraints or special conditions to consider?
-
-- Teams should work within the hackathon time window.
-- Submission includes: GitHub repo, demo video, README, and presentation.
-- Bonus points for stretch goals like founder track record analysis, real-time demo features, or LLM-powered chat interfaces.
-
-### ✅ EXPECTED OUTCOMES
+### ✅ Deliverables of the Challenge
 
 #### Deliverables
 
@@ -50,21 +42,11 @@ Participants are free to use any stack, but the following will be available or r
 #### Feasibility
 
 - Solutions should be technically feasible and demonstrate potential for real-world application.
+- Bonus points for stretch goals like founder track record analysis, real-time demo features, or LLM-powered chat interfaces.
 - Creative interpretations and integration of optional stretch goals are encouraged.
 
-### 🎯 TARGET AUDIENCE OF THE CHALLENGE
+### 🧰 **Provided Resources**
 
-#### Who should participate?
+- Teams will receive public datasets, sample URLs for crawling, and access to APIs such as Crunchbase or AngelList where applicable.
+- Additional mock or real-time data feeds may also be shared.
 
-- Developers who like a challenge.
-- Data scientists and AI/ML enthusiasts.
-- UX/UI designers interested in dashboards and visual insights.
-- Individuals passionate about startups, investing, or venture capital.
-- Individuals who want to understand what investors look for while investing in startups.
-
-#### Relevant background
-
-- Data Science, Natural Language Processing.
-- Web Crawling and Information Retrieval.
-- Product Design and Visualization.
-- Business/Finance for those focusing on evaluation models.
