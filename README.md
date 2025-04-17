@@ -1,6 +1,6 @@
 ![Q-Hack_ACE](https://github.com/user-attachments/assets/df988853-3ed5-4503-859f-f847eada6c1b)
 
-# ACE Alternatives Challenge @ Q-Hack 2025
+# <p align="center"> ACE Alternatives Challenge @ Q-Hack 2025 </p>
 
 ## Build the Engine that Finds the Next Unicorn
 
