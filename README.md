@@ -1,3 +1,5 @@
+![Q-Hack_ACE](https://github.com/user-attachments/assets/df988853-3ed5-4503-859f-f847eada6c1b)
+
 # ACE Alternatives Challenge @ Q-Hack 2025
 
 ## Build the Engine that Finds the Next Unicorn
@@ -35,9 +37,10 @@ Participants are free to use any stack, but the following will be available or r
 
 #### Deliverables
 
-- A working prototype or MVP demonstrating the core idea.
-- A concise presentation or demo video explaining the solution and its value.
-- Source code (GitHub), documentation (with a pitch/presentation), and UI showcase.
+- Source code (GitHub), documentation (with a pitch/presentation/demo video) and UI showcase.
+  - The final result should be working prototype or MVP demonstrating the core idea.
+  - The presentation or demo video should explain the solution and its value.
+
 
 #### Feasibility
 
