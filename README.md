@@ -53,3 +53,36 @@ Participants are free to use any stack, but the following will be available or r
 - Teams will receive public datasets, sample URLs for crawling, and access to APIs such as Crunchbase or AngelList where applicable.
 - Additional mock or real-time data feeds may also be shared.
 
+---
+
+### 🧪 Evaluation Criteria
+
+A total of **20 points** can be awarded across three categories:
+
+#### 💼 Business Criteria (0–8 Points)
+
+##### Degree of Innovation (0–5 Points)
+- How **novel** and **creative** is the solution?  
+- Is there a clear **differentiation factor** compared to existing solutions?
+
+##### Business Impact & Scalability (0–3 Points)
+- How **realistic** is its implementation in practice?  
+- How **scalable** is the solution?  
+- Does the solution have **potential to create a business impact**?
+
+#### 🛠️ Technical Criteria (0–8 Points)
+
+##### Technical Implementation (0–5 Points)
+- How well is the technical implementation done? → **Code quality, architecture**  
+- Are relevant/required **technologies used effectively**?  
+- Is there a **functioning MVP**?
+
+##### UX & Design (0–3 Points)
+- Is the user interface **(UI) intuitive and visually appealing**?  
+- Was user experience **(UX) taken into account** during development?
+
+#### 🎤 Pitch & Presentation (0–4 Points)
+- Is the **idea clearly and structured explained** so that the value of the solution is effectively communicated?  
+- Is the **presentation visually appealing** and professional?  
+- Are potential **questions or challenges well addressed**?
+
